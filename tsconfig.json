@@ -1,0 +1,23 @@
+
+{ "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es2017",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "baseUrl": "./src/",
+    "types": ["mocha", "node"],
+    "typeRoots": [
+      "node_modules/@types",
+      "graphql.d.ts"
+    ]
+  },
+  "include": [
+    "./src/**/*",
+    "./test/*", 
+    "graphql.d.ts",
+    ],
+  "lib": ["es2015"],
+
+}

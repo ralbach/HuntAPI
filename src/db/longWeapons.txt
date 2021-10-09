@@ -1,0 +1,42 @@
+id, Name, Cost, Unlock Condition, Ammunition, Capacity, Damage, Rate of Fire, Reload Speed, Melee Damage, Effective Range, Handling, Muzzle Velocity, Heavy Melee Damage
+0, Bomb Lance, 199, Rank 78, Special, 1/5, 150, 15, 4, 180, 25, 87, 60, 360
+1, Caldwell Rival 78, 100, Rank 18, Shotgun, 2/8, 175, 90, 4, 27, 10, 87, 400, 54
+2, Crossbow, 73, Unlock Hand Crossbow Poison and then earn 1500XP with any Hand Crossbow, Special, 1/12, 260, 10, 6, 27, 47, 54, 150, 54
+3, Crown & King Auto-5, 600, Rank 82, Shotgun, 4+1/6, 185, 100, 10, 27, 89, 425, 54
+4, Lebel 1886, 397, Rank 52, Long, 10/5, 132, 34, 18, 27, 250, 83, 630, 54
+5, Lebel 1886 Marksman, 437, Unlock Lebel 1886 Talon and then earn 3000XP with any Lebel 1886, Long, 10/5, 132, 34, 18, 27, 250, 80, 630, 54
+6, Lebel 1886 Talon, 422, Unlock Lebel 1886 and then earn 2000XP with any Lebel 1886, Long, 10/5, 132, 34, 18, 27, 250, 81, 630, 150
+7, Martini-Henry IC1, 122, Rank 16, Long, 1/20, 143, 45, 3, 27, 250, 70, 400, 54
+8, Martini-Henry IC1 Deadeye, 145, Unlock Martini-Henry IC1 and then earn 1000XP with any Martini-Henry IC1, Long, 1/20, 143, 45, 3, 27, 250, 67, 400, 54
+9, Martini-Henry IC1 Marksman, 173, Unlock Martini-Henry IC1 Riposte and then earn 1250XP with any Martini-Henry IC1, Long, 1/20, 143, 45, 3, 27, 250, 68, 400, 54
+10, Martini-Henry IC1 Riposte, 164, Unlock Martini-Henry IC1 Deadeye and then earn 1500XP with any Martini-Henry IC1, Long, 1/20, 143, 45, 3, 82, 250, 66, 400, 168
+11, Mosin Nagant M1891, 490, Rank 72, Long, 5/10, 136, 34, 3, 27, 250, 75, 615, 54
+12, Mosin-Nagant M1891 Automat, 1250, Unlock Mosin-Nagant M1891 Sniper and then earn 5000XP with any Mosin-Nagant M1891, Long, 15/0, 136, 400, 11, 27, 250, 35, 615, 54
+13, Mosin-Nagant M1891 Bayonet, 540, Unlock Mosin-Nagant M1891 Obrez and then earn 2000XP with any Mosin-Nagant M1891, Long, 5/10, 136, 34, 3, 27, 250, 70, 615, 168
+14, Mosin-Nagant M1891 Sniper, 550, Unlock Mosin-Nagant M1891 Obrez Mace and then earn 3000XP with any Mosin-Nagant M1891, Long, 5/10, 136, 34, 3, 27, 250, 75, 615, 54
+15, Nagant M1895 Officer Carbine Deadeye, 211, Unlock Nagant M1895 Officer Carbine and then earn 2500XP with any Nagant M1895 Officer, Compact, 7/14, 104, 100, 12, 27, 92, 85, 360, 54
+16, Nagant M1895 Officer Carbine, 155, Unlock Nagant M1895 Officer Brawler and then earn 2000XP with any Nagant M1895 Officer, Compact, 7/14, 104, 100, 12, 27, 92, 85, 360, 54
+17, Nitro Express Rifle, 1015, Rank 88, Special, 2/4, 364, 60, 4, 27, 250, 41, 550, 54
+18, Romero 77, 34, Rank 1, Shotgun, 1/12, 200, 30, 3, 27, 15, 92, 450, 54
+19, Romero 77 Talon, 34, Unlock Romero 77 Handcannon and then earn 750XP with any Romero 77, Shotgun, 1/12, 200, 30, 3, 27, 15, 88, 450, 150
+20, Sparks LRR, 130, Rank 26, Long, 1/16, 149, 38, 4, 27, 250, 73, 533, 54
+21, Sparks LRR Silencer, 150, Unlock Sparks LRR and then earn 1000XP with any Sparks LRR, Long, 1/16, 149, 38, 4, 27, 144, 71, 300, 54
+22, Sparks LRR Sniper, 199, Unlock Sparks LRR Silencer and then earn 3000XP with any Sparks LRR, Long, 1/16, 149, 38, 4, 27, 250, 70, 533, 54
+23, Specter 1882, 188, Rank 58, Shotgun, 4+1/10, 185, 40, 14, 27, 12, 85, 425, 54
+24, Specter 1882 Bayonet, 223, Unlock Specter 1882 Compact and then earn 2000XP with any Specter 1882, Shotgun, 4+1/10, 175, 40, 14, 27, 10, 81, 400, 168
+25, Springfield 1866, 38, Rank 1, Medium, 1/24, 132, 42, 2, 27, 175, 80, 490, 54
+26, Springfield 1866 Marksman, 73, Unlock Springfield 1866 and then earn 250XP with any Springfield 1866, Medium, 1/24, 130, 42, 2, 27, 175, 75, 490, 54
+27, Vetterli 71 Karabiner, 105, Rank 6, Medium, 6+1/20, 130, 42, 12, 27, 167, 87, 410, 54
+28, Vetterli 71 Karabiner Bayonet, 155, Unlock Vetterli 71 Karabiner Deadeye and then earn 750XP with any Vetterli 71 Karabiner, Medium, 6+1/20, 130, 42, 12, 27, 167, 85, 410, 168
+29, Vetterli 71 Karabiner Deadeye, 30, Unlock Vetterli 71 Karabiner and then earn 500XP with any Vetterli 71 Karabiner, Medium, 6+1/20, 130, 42, 12, 27, 167, 83, 410, 54
+30, Winfield 1887 Terminus, 309, Rank 64, Shotgun, 6+1/6, 185, 36, 14, 27, 11, 82, 425, 54
+31, Winfield M1873, 75, Rank 42, Compact, 15+1/20, 110, 50, 16, 27, 95, 87, 425, 54
+32, Winfield M1873 Aperture, 80, Unlock Winfield M1873 and then earn 1000XP with any Winfield M1873, Compact, 15+1/20, 110, 50, 16, 27, 95, 79, 400, 54
+33, Winfield M1873 Musket Bayonet, 137, Unlock Winfield M1873 Swift and then earn 2500XP with any Winfield M1873, Compact, 17+1/20, 110, 50, 18, 27, 95, 82, 400, 168
+34, Winfield M1873 Swift, 128, Unlock Winfield M1873 Talon and then earn 2000XP with anyWinfield M1873, Compact, 15+1/20, 110, 50, 8, 27, 95, 87, 400, 54
+35, Winfield M1873 Talon, 100, Unlock Winfield M1873 Aperture and then earn 1500XP with any Winfield M1873, Compact, 15+1/20, 110, 50, 16, 27, 95, 85, 400, 150
+36, Winfield M1873C, 41, Rank 1, Compact, 7+1/28, 110, 50, 10, 27, 95, 89, 400, 54
+37, Winfield M1873C Marksman, 56, Unlock Winfield M1873C Silencer and then earn 500XP with any Winfield M1873C, Compact, 7+1/28, 110, 50, 10, 27, 95, 83, 400, 54
+38, Winfield M1873C Silencer, 55, Unlock Winfield M1873C Silencer and then earn 250XP with any Winfield M1873C, Compact, 7+1/28, 110, 50, 10, 27, 81, 84, 250, 54
+39, Winfield M1876 Centennial, 277, Rank 58, Medium, 9+1/8, 123, 39, 11, 27, 148, 76, 600, 54
+40, Winfield M1876 Centennial Sniper, 277, Unlock Winfield M1876 FMJ and then earn 1500XP with any Winfield M1876 Centennial, Medium, 9+1/8, 123, 39, 11, 27, 148, 72, 600, 54

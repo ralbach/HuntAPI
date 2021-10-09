@@ -1,0 +1,1 @@
+id, Name, Cost, Unlock Condition, Ammunition, Capacity, Damage, Rate of Fire, Reload Speed, Melee Damage, Effective Range, Handling, Muzzle Velocity, Heavy Melee Damage
