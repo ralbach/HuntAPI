@@ -2,7 +2,7 @@ id, Name, Cost, Unlock Condition, Ammunition, Capacity, Damage, Rate of Fire, Re
 0, Bomb Lance, 199, Rank 78, Special, 1/5, 150, 15, 4, 180, 25, 87, 60, 360
 1, Caldwell Rival 78, 100, Rank 18, Shotgun, 2/8, 175, 90, 4, 27, 10, 87, 400, 54
 2, Crossbow, 73, Unlock Hand Crossbow Poison and then earn 1500XP with any Hand Crossbow, Special, 1/12, 260, 10, 6, 27, 47, 54, 150, 54
-3, Crown & King Auto-5, 600, Rank 82, Shotgun, 4+1/6, 185, 100, 10, 27, 89, 425, 54
+3, Crown & King Auto-5, 600, Rank 82, Shotgun, 4+1/6, 185, 100, 10, 27, 12, 89, 425, 54
 4, Lebel 1886, 397, Rank 52, Long, 10/5, 132, 34, 18, 27, 250, 83, 630, 54
 5, Lebel 1886 Marksman, 437, Unlock Lebel 1886 Talon and then earn 3000XP with any Lebel 1886, Long, 10/5, 132, 34, 18, 27, 250, 80, 630, 54
 6, Lebel 1886 Talon, 422, Unlock Lebel 1886 and then earn 2000XP with any Lebel 1886, Long, 10/5, 132, 34, 18, 27, 250, 81, 630, 150

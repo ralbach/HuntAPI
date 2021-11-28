@@ -1,7 +1,7 @@
 import {Schema, model} from 'mongoose'
 
 
-const longWeaponSchema = new Schema({
+const weaponSchema = new Schema({
     _id:{type: String},
     name:{type: String},
     cost:{type: String},
@@ -18,4 +18,4 @@ const longWeaponSchema = new Schema({
     heavyMeleeDamage: {type: Number},
 })
 
-export const longWeapons = model('longWeapons', longWeaponSchema)
+// export const weapons = model('weapons', weaponSchema)
