@@ -1,0 +1,110 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model consumables {
+  id                 String  @id @default(auto()) @map("_id") @db.ObjectId
+  Category           String?
+  Cost               String?
+  Damage             String?
+  Damage_per_tick    String? @map("Damage per tick")
+  Effect_Duration    String? @map("Effect Duration")
+  Effect_Radius      String? @map("Effect Radius")
+  Effective_Range    String? @map("Effective Range")
+  Heavy_Melee_Damage String? @map("Heavy Melee Damage")
+  Melee_Damage       String? @map("Melee Damage")
+  Name               String
+  Unlock_Condition   String? @map("Unlock Condition")
+  imageUrl           String?
+}
+
+model legendaryHunters {
+  id               String @id @default(auto()) @map("_id") @db.ObjectId
+  Description      String
+  Legendary_Hunter String @map("Legendary Hunter")
+  Unlock_Cost      String @map("Unlock Cost")
+  imageUrl         String
+}
+
+model longWeapons {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  Ammunition         String
+  Capacity           String
+  Cost               String
+  Damage             String
+  Effective_Range    String @map("Effective Range")
+  Handling           String
+  Heavy_Melee_Damage String @map("Heavy Melee Damage")
+  Melee_Damage       String @map("Melee Damage")
+  Muzzle_Velocity    String @map("Muzzle Velocity")
+  Name               String
+  Rate_of_Fire       String @map("Rate of Fire")
+  Reload_Speed       String @map("Reload Speed")
+  Unlock_Condition   String @map("Unlock Condition")
+}
+
+model mediumWeapons {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  Ammunition         String
+  Capacity           String
+  Cost               String
+  Damage             String
+  Effective_Range    String @map("Effective Range")
+  Handling           String
+  Heavy_Melee_Damage String @map("Heavy Melee Damage")
+  Melee_Damage       String @map("Melee Damage")
+  Muzzle_Velocity    String @map("Muzzle Velocity")
+  Name               String
+  Rate_of_Fire       String @map("Rate of Fire")
+  Reload_Speed       String @map("Reload Speed")
+  Unlock_Condition   String @map("Unlock Condition")
+}
+
+model shortWeapons {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  Ammunition         String
+  Capacity           String
+  Cost               String
+  Damage             String
+  Effective_Range    String @map("Effective Range")
+  Handling           String
+  Heavy_Melee_Damage String @map("Heavy Melee Damage")
+  Melee_Damage       String @map("Melee Damage")
+  Muzzle_Velocity    String @map("Muzzle Velocity")
+  Name               String
+  Rate_of_Fire       String @map("Rate of Fire")
+  Reload_Speed       String @map("Reload Speed")
+  Unlock_Condition   String @map("Unlock Condition")
+  imageUrl           String
+}
+
+model tools {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  Cost               String
+  Effect_Duration    String @map("Effect Duration")
+  Effect_Radius      String @map("Effect Radius")
+  Effective_Range    String @map("Effective Range")
+  Handling           String
+  Heavy_Melee_Damage String @map("Heavy Melee Damage")
+  Melee_Damage       String @map("Melee Damage")
+  Muzzle_Velocity    String @map("Muzzle Velocity")
+  Name               String
+  Rate_of_Fire       String @map("Rate of Fire")
+  Reload_Speed       String @map("Reload Speed")
+  Unlock_Condition   String @map("Unlock Condition")
+  imageUrl           String
+}
+
+model traits {
+  id          String @id @default(auto()) @map("_id") @db.ObjectId
+  Cost        String
+  Description String
+  Name        String
+  Rank        String
+  imageUrl    String
+}

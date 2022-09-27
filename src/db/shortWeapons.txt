@@ -1,17 +1,17 @@
-id, Name, Cost, Unlock Condition, Ammunition, Capacity, Damage, Rate of Fire, Reload Speed, Melee Damage, Effective Range, Handling, Muzzle Velocity, Heavy Melee Damage
-60, Bornheim No.3, 201, Rank 30, Compact, 5+1/10, 74, 210, 3, 13, 60m, 64, 380, 31
-61, Bornheim No.3 Extended, 306, Unlock Bornheim No. 3 and then earn 1500XP with any Bornheim No. 3 variant, Compact, 8+1/10, 74, 210, 8, 13, 60m, 64, 380, 31
-62, Caldwell Conversion Chain Pistol, 50, Unlock Caldwell Conversion Pistol and then earn 1000XP with any Caldwell Conversion Pistol variant, Compact, 17/18, 104, 44, 28, 13, 84m, 60, 300, 31
-63, Caldwell Conversion Pistol, 26, Rank 22, Compact, 6/18, 104, 44, 11, 13, 84m, 66, 300, 31
-64, Caldwell Conversion Uppercut, 275, Unlock Caldwell Conversion Chain Pistol and then earn 3000XP with any Caldwell Conversion Pistol Variant, Long, 6/9, 130, 40, 15, 13, 96m, 57, 410, 31
-65, Caldwell Pax, 100, Rank 10, Medium, 6/12, 110, 46, 11, 13, 86m, 60, 330, 31
-66, Caldwell Pax Claw, 125, Unlock Caldwell Pax and then earn 2000XP with any Caldwell Pax variant, Medium, 6/12, 110, 46, 11, 37, 86m, 60, 330, 76
-67, Cavalry Saber, 60, Rank 62, N/A, N/A, ,,,82,,47,,,168
-68, Dolch 96, 750, Rank 68, Special, 10/10, 110, 164, 5, 13, 86, 72, 440, 31
-69, Hand Crossbow, 35, Rank 4, Special, 1/12, 195, 12, 5, 18, 45m, 53, 100, 36
-70, Lemat Mark II Revolver, 95, Rank 46, Compact & Shotgun, 9/18 1/3, 97, 42, 15, 13, 79m, 66, 300, 31
-71, Machete, 18, Rank 12, N/A, N/A, ,,,64,,90,,135
-72, Nagant M1895, 24, Rank 1, Compact, 7/21, 91, 40, 12, 13, 73m, 63, 330, 31
-73, Nagant M1895 Officer, 66, Rank 36, Compact, 7/14, 91, 100, 12, 13, 73m, 58, 330, 31
-74, Nagant M1895 Officer Brawler, 80, Unlock Nagant M1895 Officer and then earn 1000XP with any Nagant M1895 Officer variant, Compact, 7/14, 91, 100, 12, 31, 73m, 58, 330, 67
-75, Nagant M1895 Silver, 53, Unlock Nagant M1895 Precision and then earn 250XP with any Nagant M1895 variant, Compact, 7/21, 91, 40, 12, 13, 56m, 61, 250, 31
+Name, imageUrl,Cost, Unlock Condition, Ammunition, Capacity, Damage, Rate of Fire, Reload Speed, Melee Damage, Effective Range, Handling, Muzzle Velocity, Heavy Melee Damage
+Bornheim No.3, bornheimNo3.jpg, 201, Rank 30, Compact, 5+1/10, 74, 210, 3, 13, 60m, 64, 380, 31
+Bornheim No.3 Extended, bornheimNo3Extended.jpg, 306, Unlock Bornheim No. 3 and then earn 1500XP with any Bornheim No. 3 variant, Compact, 8+1/10, 74, 210, 8, 13, 60m, 64, 380, 31
+Caldwell Conversion Chain Pistol, caldwellConversionChainPistol.jpg, 50, Unlock Caldwell Conversion Pistol and then earn 1000XP with any Caldwell Conversion Pistol variant, Compact, 17/18, 104, 44, 28, 13, 84m, 60, 300, 31
+Caldwell Conversion Pistol, caldwellConversionPistol.jpg, 26, Rank 22, Compact, 6/18, 104, 44, 11, 13, 84m, 66, 300, 31
+Caldwell Conversion Uppercut, caldwellConversionUppercut.jpg, 275, Unlock Caldwell Conversion Chain Pistol and then earn 3000XP with any Caldwell Conversion Pistol Variant, Long, 6/9, 130, 40, 15, 13, 96m, 57, 410, 31
+Caldwell Pax, caldwellPax.jpg, 100, Rank 10, Medium, 6/12, 110, 46, 11, 13, 86m, 60, 330, 31
+Caldwell Pax Claw, caldwellPaxClaw.jpg,125, Unlock Caldwell Pax and then earn 2000XP with any Caldwell Pax variant, Medium, 6/12, 110, 46, 11, 37, 86m, 60, 330, 76
+Cavalry Saber, cavalrySaber.jpg, 60, Rank 62, N/A, N/A, ,,82,,47,,,168
+Dolch 96, dolch96.jpg, 750, Rank 68, Special, 10/10, 110, 164, 5, 13, 86, 72, 440, 31
+Hand Crossbow, handCrossbow.jpg, 35, Rank 4, Special, 1/12, 195, 12, 5, 18, 45m, 53, 100, 36
+Lemat Mark II Revolver, leMatMarkII.jpg, 95, Rank 46, Compact & Shotgun, 9/18 1/3, 97, 42, 15, 13, 79m, 66, 300, 31
+Machete, machete.jpg, 18, Rank 12, N/A, N/A, ,,,64,,90,,135
+Nagant M1895, nagantM1895.jpg, 24, Rank 1, Compact, 7/21, 91, 40, 12, 13, 73m, 63, 330, 31
+Nagant M1895 Officer, nagantM1895Officer.jpg, 66, Rank 36, Compact, 7/14, 91, 100, 12, 13, 73m, 58, 330, 31
+Nagant M1895 Officer Brawler, nagantM1895OfficerBrawler.jpg, 80, Unlock Nagant M1895 Officer and then earn 1000XP with any Nagant M1895 Officer variant, Compact, 7/14, 91, 100, 12, 31, 73m, 58, 330, 67
+Nagant M1895 Silencer, nagantM1895Silencer.jpg, 53, Unlock Nagant M1895 Precision and then earn 250XP with any Nagant M1895 variant, Compact, 7/21, 91, 40, 12, 13, 56m, 61, 250, 31

@@ -1,0 +1,29 @@
+Name, imageUrl, Cost, Unlock Condition, Melee Damage, Heavy Melee Damage, Effective Range, Effect Duration, Effect Radius, Damage, Damage per tick, Category 
+Ammo Box, '', 65, Reach Rank 80, 13, 27, null, null, null, null, null, Restock
+Antidote Shot, antidoteShot.jpg, 55, Use any 'Poison' item 15 times, 13, 27, null, 3600, null, null, null, Poison
+Big Dynamite Bundle, bigDynamiteBundle.jpg, 110, Earn 1000XP with any 'Explosives' item, 13, 27, 10, null, 10, 3000, null, Explosives
+Chaos Bomb, chaosBomb.jpg, 15, Unlock Alert Trip Mines then use any 'Deception' item 25 times, 13, 27, 15, null, null, null, null, Deception
+Concertina Bomb, concertinaBomb.jpg, 48, Use any 'Tactical Gadgets' item 15 times, 52, 112, 10, null, 2, 200, null, Tactical Gadgets
+Dynamite Bundle, dynamiteBundle.jpg, 75, Earn 500XP with any 'Explosives' item, 13, 27, 15, null, 9, 1500, null, Explosives
+Dynamite Stick, dynamiteStick.jpg, 18, Reach Rank 8, 13, 27, 20, null, 8, 500, null, Explosives
+Fire Bomb, fireBomb.jpg, 18, Reach Rank 1, 13, 27, 20, null, 2, null, null, Fire
+Flash Bomb, flashBomb.jpg, 47, Use any 'Tactical Gadgets' item 15 times, 13, 27, 20, null, 8, null, null, Tactical Gadgets
+Frag Bomb, fragBomb.jpg, 70, Earn 500XP with any 'Explosives' item, 13, 27, 20, null, 10, 200, null, Explosives
+Hellfire Bomb, hellfireBomb.jpg, 70, Use any 'Fire' item 25 times, 13, 27, 20, null, 6, null, null, Fire
+Hive Bomb, hiveBomb.jpg, 40, Use any 'Poison' item 25 times, 13, 27, 20, 30, null, null, 4, Poison
+Liquid Fire Bomb, liquidFireBomb.jpg, 23, Use any 'Fire' item 5 times, 13, 27, 20, null, 2, null, null, Fire
+Poison Bomb, poisonBomb.jpg, 25, Reach Rank 48, 13, 27, 20, 300, 3, null, 13, Poison
+Stamina Shot, staminaShot.jpg, 40, Use any 'Healing Shot' item 15 times, 13, 27, null, 600, null, null, null, Healing Shots
+Sticky Bomb, stickyBomb.jpg, 64, Earn 250XP with any 'Explosives' item, 13, 27, 15, null, 15, 10000, null, Explosives
+Vitality Shot, vitalityShot.jpg, 65, Use any 'Healing Shot' item 10 times, 13, 27, null, null, null, null, null, Healing Shots
+Waxed Dynamite Stick, waxedDynamiteStick.jpg, 24, Earn 250XP with any 'Explosives' item, 13, 27, 20, null, 8, 500, null, Explosives
+Dynamite Bundle,  dynamiteBundle.jpg, 75, Earn 500XP with any 'Explosives' item, 13, 27, 15, null, 9, 1500, null, Deception
+Weak Antidote Shot, antidoteShotWeak.jpg, 25, Use any 'Poison' item 5 times, 13, 27, null, 60, null, null, null, Healing Shots
+Weak Stamina Shot,  staminaShotWeak.jpg, 10, Use any 'Healing Shot' item 5 times, 13, 27, null, 60, null, null, null, Healing Shots
+Weak Vitality Shot, vitalityShotWeak.jpg, 10, Reach Rank 1, 13, 27, null, 60, null, null, null, Healing Shots
+
+
+
+
+
+

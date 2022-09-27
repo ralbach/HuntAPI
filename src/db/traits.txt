@@ -1,0 +1,52 @@
+Rank, Name, imageUrl, Cost, Description
+1, Adrenaline, adrenaline.jpg, 1, Instantly start regenerating Stamina while your Health is critically low.
+1, Bloodless, bloodless.jpg, 4, Bleeding will not escalate from light to medium or intense bleeding. (i.e. any bleeding you incur will only ever be light bleeding).
+1, Conduit, conduit.jpg, 4, Get a health and stamina boost when picking up a Clue Rift or Bounty token.
+1, Greyhound, greyhound.jpg, 4, Sprint at full speed for a longer duration. (Roughly doubles the duration).
+1, Hornskin, hornskin.jpg, 3, Reduce damage taken from blunt melee by 25%.
+1, Magpie, magpie.jpg, 1, Receive a short effect similiar to that of either the Antidote Shot Stamina Shot or Regeneration Shot when picking up a Bounty Token.
+1, Packmule, packmule.jpg, 3, Receive an additional tool or consumable when looting players or opening item boxes.
+1, Salveskin, salveskin.jpg, 5, Reduces fire damage and burn speed by 25% even when downed.
+5, Determination, determination.jpg, 3, Stamina recovery starts sooner. (Applies to both melee and sprinting stamina).
+7, Iron Repeater, ironRepeater.jpg, 2, Remain in iron sights after firing a shot while using lever-action rifles. (Applies to all scope-less Winfield lever-action variants including shotguns).
+11, Assailant, assailant.jpg, 2, Increases melee damage of throwing knives and throwing axes.
+13, Bolt Thrower, boltThrower.jpg, 3, Reduced reload time for crossbows.
+14, Levering, levering.jpg, 3, Faster rate of fire from the hip when using lever-action weapons. (Applies to all Winfield lever-action variants including shotguns).
+15, Mithridatist, mithridatist.jpg, 3, Drastically reduces the time needed to recover from poisoning.
+16, Bulwark, bulwark.jpg, 2, Reduce the damage from explosions and Bomb Lance harpoon attacks by 50%.
+17, Fanning, fanning.jpg, 7, Faster rate-of-fire when using 1-handed single-action pistols.
+19, Ghoul, ghoul.jpg, 4, Killing Grunts at close-range restores a small amount of health. (25m range and restores 5 health).
+21, Gator Legs, gatorLegs.jpg, 2, Walk and sprint faster in deep water. Also make less noise while crouched in water.
+23, Deadeye Scopesmith, deadeyeScopesmith.jpg, 1, Remain in scope view after firing a shot while using any weapon with a short scope (Deadeye variants).
+25, Silent Killer, silentKiller.jpg, 5, Reduces the sound you make when performing melee attacks.
+27, Lightfoot, lightfoot.jpg, 5, Vault jump fall and climb ladders silently.
+28, Serpent, serpent.jpg, 4, Using Dark Sight interact with nearby Clues Rifts Banishable Targets and abandoned Bounty from a safe distance. (25m range).
+29, Physician, physician.jpg, 5, Reduce the time needed to bandage. (With the First Aid Kit).
+31, Steady Aim, steadyAim.jpg, 3, Weapon sway gradually lessens when you're looking through the scope of a rifle. (Applies to any 3-slot rifle with a scope or aperture sight).
+33, Steady Hand, steadyHand.jpg, 2, Weapon sway gradually lessens when you're looking through the scope of a pistol or a stock-less weapon. (Applies to 2-slot weapons with a scope).
+35, Marksman Scopesmith, marksmanScopesmith.jpg, 2, Remain in scope view after firing a shot while using any weapon with a medium scope (Marksman variants).
+38, Vigor, vigor.jpg, 4, While in Dark Sight doubles the rate at which Health and Stamina regenerate.
+38, Whispersmith, whispersmith.jpg, 2, Reduces noise when selecting equipment.
+39, Frontiersman, frontiersman.jpg, 8, Carried tools can be used one extra time.
+41, Beastface, beastface.jpg, 3, Reduced reaction range of animals (doesn't affect monsters like Hellhounds).
+43, Decoy Supply, decoySupply.jpg, 1, Restock all types of decoys from ammo crates.
+44, Ambidextrous, ambidextrous.jpg, 3, Quicker reloading of matched pairs and custom clip reloads for semi-auto pistol sets.
+45, Tomahawk, tomahawk.jpg, 1, Melee weapons found in the world can be thrown.
+47, Iron Sharpshooter, ironSharpshooter.jpg, 3, Remain in iron sights after firing a shot while using bolt-action rifles. (Applies to all scope-less bolt-action rifles including Vetterli Berthier Lebel and Mosin variants excluding the Mosin Avtomat).
+49, Blade Seer, bladeSeer.jpg, 2, Bolts arrows throwing axes and throwing knives are highlighted in Dark Sight for better visibility. (25m range line of sight required).
+51, Quartermaster, quartermaster.jpg, 6, Can equip a medium slot weapon in addition to a large slot weapon.
+55, Pitcher, pitcher.jpg, 6, Increased throwing range for all items using the aim helper. (Roughly 50% increased range).
+57, Bulletgrubber, bulletgrubber.jpg, 6, Recover the unfired round when performing partial reloads. (Applies to Bornheim Dolch Lebel Mosin Berthier Specter and Terminus variants).
+59, Poacher, poacher.jpg, 1, Place and disarm traps quietly.
+60, Hundred Hands, hundredHands.jpg, 3, Increases the damage of a Hunting Bow shot at full draw by 10%. Also reduces sway whilst at full draw.
+61, Dauntless, dauntless.jpg, 1, Thrown explosives can be defused when interacting with them (3m interaction range).
+63, Kiteskin, kiteskin.jpg, 1, Reduce damage from falling by 50%.
+65, Iron Devastator, ironDevastator.jpg, 2, Remain in iron sights between shots using pump-action shotguns. (Applies to Winfield Slate and Specter 1882 variants).
+67, Dewclaw, dewclaw.jpg, 2, Enhances the melee attack of a bow and arrow.
+69, Necromancer, necromancer.jpg, 4, Using Dark Sight revive a downed partner from a distance at the cost of a small amount of health. (25m range costs 25 Health).
+71, Vulture, vulture.jpg, 3, Always be able to loot dead Hunters- even after they have been looted by other players.
+73, Doctor, doctor.jpg, 8, Doubles the amount of Health restored by First Aid Kits.
+77, Sniper Scopesmith, sniperScopesmith.jpg, 3, Remain in scope view after firing a shot while using any weapon with a long scope (Sniper variants).
+84, Poison Sense, poisonSense.jpg, 1, You can see nearby poisoned Hunters while in Dark Sight. (50m range).
+87, Vigilant, vigilant.jpg, 2, Nearby traps are highlighted in Dark Sight. (25m range).
+9, Resilience, resilience.jpg, 2, Get revived with up to 100 Health.

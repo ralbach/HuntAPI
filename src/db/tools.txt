@@ -1,0 +1,19 @@
+Name, imageUrl, Cost, Unlock Condition, Melee Damage, Heavy Melee Damage, Effective Range, Effect Duration, Effect Radius, Handling, Rate of Fire, Muzzle Velocity, Reload Speed 
+Alert Trip Mine, alertTripMines.jpg, $60, Unlock Decoys then use any 'Deception' item 15 times, 13, 27, null, null, null, null, null, null, null
+Blank Fire Decoys, blankFireDecoys.jpg, $45, Unlock Chaos Bomb then use any 'Deception' item 25 times, 13, 27, 20m, null, null, null, null, null, null
+Choke Bomb, chokeBomb.jpg, $25, Reach Rank 11, 13, 27, 20m, 5m, null, null, null, null, null
+Concertina Trip Mine, concertinaTripMine.jpg, $90, Reach Rank 40, 13, 27, 2m, null, null, null, null, null, null
+Decoy Fuses, decoyFuses.jpg, $60, Unlock Blank Fire Decoys then use any 'Deception' item 25 times, 13, 27, null, 6s, null, null, null, null, null
+Decoys, decoys.jpg, $6, Reach Rank 32, 13, 27, 20m, null, null, null, null, null, null
+Dusters, dusters.jpg, $15, Reach Rank 20, 31, 72, null, null, null, 71, null, null, null
+Electric Lamp, electricLamp.jpg, $5, Reach Rank 1, null, null, null, Unlimited, null, null, null, null, null
+First Aid Kit, firstAidKit.jpg, $30, Reach Rank 1, 13, 27, null, null, null, null, null, null, null
+Flare Pistol, flarePistol.jpg,  $36, Earn 500xp with any 'Light' item, 13, 31, 35m, null, 53, 25rpm, 75, null, 5
+Fusees, fusees.jpg, $10, Extract 2 times with any item from 'Light', 13, 27, 300s, null, null, null, null, null, null
+Heavy Knife, heavyKnife.jpg, $25, Earn 2500XP with any Knife variant, 72, 120, null, null, null, 45, null, null, null
+Knife, knife.jpg, $20, Reach Rank 1, 52, 105, null, null, null, 57, null, null, null
+Knuckle Knife, knuckleKnife.jpg, $15, EEArn 2500XP with any Dusters variant, 58, 92, null, null, null, 62, null, null, null
+Poison Trip Mine, poisonTripMine.jpg, $60, Use any 'Poison' item 25 times, 13, 27, null, null, 1m, null, null, null, null
+Quad Derringer, quadDerringer.jpg, $30, Reach Rank 66, 13, 31, 60m, null, null, 59, 130rpm, 130, 3s
+Spyglass, spyGlass.jpg, $8, Reach Rank 24, 13, 27, null, null, null, null, null, null, null
+Throwing Knives, throwingKnives.jpg, 40$, Earn 2500XP with any Knife variant, 22, 52, 20m, null, null, 66, 30, 35, 0  
